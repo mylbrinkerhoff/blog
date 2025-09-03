@@ -11,20 +11,20 @@
     "href": "posts/welcome/index.html",
     "title": "Welcome To My Blog",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts.\n\n\n\nReuseCC BY 4.0CitationBibTeX citation:@online{loren_brinkerhoff2025,\n  author = {Loren Brinkerhoff, Mykel and O’Malley, Tristan},\n  title = {Welcome {To} {My} {Blog}},\n  date = {2025-08-31},\n  url = {https://blog.mlbrinkerhoff.me/posts/welcome/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nLoren Brinkerhoff, Mykel, and Tristan O’Malley. 2025. “Welcome To\nMy Blog.” August 31, 2025. https://blog.mlbrinkerhoff.me/posts/welcome/."
   },
   {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
     "title": "Post With Code",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "This is a post with executable code.\n\n\n\nReuseCC BY 4.0CitationBibTeX citation:@online{loren_brinkerhoff2025,\n  author = {Loren Brinkerhoff, Mykel and Malloc, Harlow},\n  title = {Post {With} {Code}},\n  date = {2025-09-03},\n  url = {https://blog.mlbrinkerhoff.me/posts/post-with-code/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nLoren Brinkerhoff, Mykel, and Harlow Malloc. 2025. “Post With\nCode.” September 3, 2025. https://blog.mlbrinkerhoff.me/posts/post-with-code/."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Mykel Brinkerhoff’s Blog",
     "section": "",
-    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nSep 3, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nAug 31, 2025\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nSep 3, 2025\n\n\nMykel Loren Brinkerhoff, Harlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nAug 31, 2025\n\n\nMykel Loren Brinkerhoff, Tristan O’Malley\n\n\n\n\n\nNo matching items"
   }
 ]
