@@ -6,3 +6,28 @@ freeze: true
 
 # Enable banner style title blocks
 title-block-banner: true
+
+# Enable CC licence appendix
+license: "CC BY"
+
+# Default for table of contents
+toc: true
+toc-title: Table of contents
+toc-location: left
+
+# Default knitr options
+execute:
+  echo: true
+  message: true
+  warning: true
+
+# Default author
+author:
+  - name: Mykel Loren Brinkerhoff
+    url: https://mlbrinkerhoff.me
+    affiliation: Department of Linguists, Univeristy of Washington
+    affiliation-url: https://linguistics.washington.edu/
+    orcid: 0000-0002-2190-6544
+
+# Default fields for citation
+citation: true
