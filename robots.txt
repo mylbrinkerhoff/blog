@@ -1,1 +1,1 @@
-Sitemap: https://mylbrinkerhoff.github.io/mlbrinkerhoff_blog/sitemap.xml
+Sitemap: https://blog.mlbrinkerhoff.me/sitemap.xml
