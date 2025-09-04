@@ -3,6 +3,8 @@ project:
 
 website:
   title: "Mykel Brinkerhoff's Blog"
+  site-url: https://blog.mlbrinkerhoff.me
+  description: "A blog about linguistics, programming, and other things."
   google-analytics: "G-MW6LP1WSCZ"
   navbar:
     right:
@@ -11,6 +13,8 @@ website:
         href: https://github.com/
       - icon: twitter
         href: https://twitter.com
+      - icon: rss
+        href: index.xml
 format:
   html:
     theme:
