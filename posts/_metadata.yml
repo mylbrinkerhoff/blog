@@ -23,7 +23,9 @@ execute:
 
 # Default author
 author:
-  - name: Mykel Loren Brinkerhoff
+  - name:
+      given: Mykel Loren
+      family: Brinkerhoff
     url: https://mlbrinkerhoff.me
     affiliation: Department of Linguists, Univeristy of Washington
     affiliation-url: https://linguistics.washington.edu/
