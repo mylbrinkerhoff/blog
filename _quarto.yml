@@ -16,6 +16,8 @@ format:
       - sandstone
       - brand
     css: styles.css
+    code-overflow: wrap
+    code-line-numbers: true
 
 
 
