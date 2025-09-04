@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Mykel Brinkerhoff&#39;s Blog</title>
+<link>https://blog.mlbrinkerhoff.me/</link>
+<atom:link href="https://blog.mlbrinkerhoff.me/index.xml" rel="self" type="application/rss+xml"/>
+<description>A blog about linguistics, programming, and other things.</description>
+<generator>quarto-1.7.32</generator>
+<lastBuildDate>Wed, 03 Sep 2025 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Post With Code</title>
+  <dc:creator>Mykel Loren Brinkerhoff</dc:creator>
+  <link>https://blog.mlbrinkerhoff.me/posts/post-with-code/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This is a post with executable code.</p>
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{brinkerhoff2025,
+  author = {Brinkerhoff, Mykel Loren},
+  title = {Post {With} {Code}},
+  date = {2025-09-03},
+  url = {https://blog.mlbrinkerhoff.me/posts/post-with-code/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-brinkerhoff2025" class="csl-entry quarto-appendix-citeas">
+Brinkerhoff, Mykel Loren. 2025. <span>“Post With Code.”</span> September
+3, 2025. <a href="https://blog.mlbrinkerhoff.me/posts/post-with-code/">https://blog.mlbrinkerhoff.me/posts/post-with-code/</a>.
+</div></div></section></div> ]]></description>
+  <category>news</category>
+  <category>code</category>
+  <category>analysis</category>
+  <guid>https://blog.mlbrinkerhoff.me/posts/post-with-code/</guid>
+  <pubDate>Wed, 03 Sep 2025 07:00:00 GMT</pubDate>
+  <media:content url="https://blog.mlbrinkerhoff.me/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Welcome To My Blog</title>
+  <dc:creator>Mykel Loren Brinkerhoff</dc:creator>
+  <dc:creator>Tristan O&#39;Malley</dc:creator>
+  <link>https://blog.mlbrinkerhoff.me/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This is the first post in a Quarto blog. Welcome!</p>
+<p><img src="https://blog.mlbrinkerhoff.me/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
+<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{brinkerhoff2025,
+  author = {Brinkerhoff, Mykel Loren and O’Malley, Tristan},
+  title = {Welcome {To} {My} {Blog}},
+  date = {2025-08-31},
+  url = {https://blog.mlbrinkerhoff.me/posts/welcome/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-brinkerhoff2025" class="csl-entry quarto-appendix-citeas">
+Brinkerhoff, Mykel Loren, and Tristan O’Malley. 2025. <span>“Welcome To
+My Blog.”</span> August 31, 2025. <a href="https://blog.mlbrinkerhoff.me/posts/welcome/">https://blog.mlbrinkerhoff.me/posts/welcome/</a>.
+</div></div></section></div> ]]></description>
+  <category>news</category>
+  <guid>https://blog.mlbrinkerhoff.me/posts/welcome/</guid>
+  <pubDate>Sun, 31 Aug 2025 07:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
