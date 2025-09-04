@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Mykel Brinkerhoff's Blog"
+  google-analytics: "G-MW6LP1WSCZ"
   navbar:
     right:
       - about.qmd
